@@ -8,8 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "git-commit-msg-linter": "^5.0.7"
-  }
+  "description": ""
 }
